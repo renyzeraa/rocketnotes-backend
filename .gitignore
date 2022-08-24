@@ -1,8 +1,5 @@
 
-*.vscode
-uploads/*.png
-uploads/*.jpg
-*.env
+.env
 
 # Logs
 logs
