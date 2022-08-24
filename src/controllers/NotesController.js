@@ -1,6 +1,4 @@
-const nodemon = require('nodemon')
 const knex = require('../database/knex')
-const Swal = require('sweetalert2')
 
 class NotesController {
   async create(request, response) {
